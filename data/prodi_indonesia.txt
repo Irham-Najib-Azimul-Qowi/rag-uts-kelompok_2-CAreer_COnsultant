@@ -1,0 +1,161 @@
+# DATA PROGRAM STUDI DI INDONESIA DAN PROSPEK KERJANYA
+
+## KATEGORI: TEKNIK & TEKNOLOGI
+
+1. Teknik Informatika / Ilmu Komputer (Informatics / Computer Science)
+   - Deskripsi: Mempelajari algoritma, pengembangan perangkat lunak, sistem cerdas, dan keamanan siber.
+   - Prospek Kerja: Software Engineer, Data Scientist, Cyber Security Specialist, Web/Mobile Developer, AI Engineer, IT Consultant.
+
+2. Sistem Informasi (Information Systems)
+   - Deskripsi: Integrasi antara teknologi informasi dengan Proses Bisnis.
+   - Prospek Kerja: Business Analyst, System Analyst, Database Administrator, IT Project Manager, ERP Consultant.
+
+3. Teknik Sipil (Civil Engineering)
+   - Deskripsi: Perencanaan, pembangunan, dan pemeliharaan infrastruktur seperti gedung, jalan, dan jembatan.
+   - Prospek Kerja: Structural Engineer, Project Manager, Site Engineer, Konsultan Konstruksi, Kontraktor.
+
+4. Teknik Elektro (Electrical Engineering)
+   - Deskripsi: Mempelajari listrik, elektronika, telekomunikasi, dan sistem kontrol.
+   - Prospek Kerja: Power System Engineer, Hardware Engineer, Telecommunication Engineer, Automation Engineer.
+
+5. Teknik Industri (Industrial Engineering)
+   - Deskripsi: Optimasi sistem produksi, manajemen rantai pasok, dan efisiensi operasional.
+   - Prospek Kerja: Supply Chain Manager, Quality Plan & Control (PPIC), Quality Control Engineer, Industrial Consultant.
+
+6. Teknik Mesin (Mechanical Engineering)
+   - Deskripsi: Perancangan, pembuatan, dan pemeliharaan mesin serta alat mekanik.
+   - Prospek Kerja: Maintenance Engineer, Design Engineer di Industri Otomotif/Pesawat, Energy Auditor, Plant Manager.
+
+7. Teknik Kimia (Chemical Engineering)
+   - Deskripsi: Pengolahan bahan baku menjadi produk melalui proses kimia dan fisika.
+   - Prospek Kerja: Process Engineer di industri Petrokimia, FMCG, Manager Pengolahan Limbah, Konsultan Energi.
+
+8. Teknik Perminyakan & Pertambangan (Petroleum & Mining Engineering)
+   - Deskripsi: Eksplorasi, eksploitasi, dan pengolahan sumber daya alam.
+   - Prospek Kerja: Drilling Engineer, Reservoir Engineer, Mining Engineer, Ahli Geosis.
+
+9. Arsitektur (Architecture)
+   - Deskripsi: Perancangan bangunan dengan memperhatikan estetika dan fungsi.
+   - Prospek Kerja: Arsitek, Urban Planner, Interior Designer, Konsultan Proyek Bangunan.
+
+---
+
+## KATEGORI: KESEHATAN
+
+10. Kedokteran (Medicine)
+    - Deskripsi: Ilmu diagnosis, pengobatan, dan pencegahan penyakit manusia.
+    - Prospek Kerja: Dokter Umum, Dokter Spesialis (setelah residensi), Peneliti Medis, Akademisi.
+
+11. Farmasi (Pharmacy)
+    - Deskripsi: Ilmu mengenai obat-obatan, mulai dari penemuan hingga distribusinya.
+    - Prospek Kerja: Apoteker, Quality Control (QC) di Industri Farmasi, Researcher, Farmasi Klinis.
+
+12. Kedokteran Gigi (Dentistry)
+    - Deskripsi: Perawatan kesehatan gigi dan mulut.
+    - Prospek Kerja: Dokter Gigi, Spesialis Bedah Mulut, Peneliti Kesehatan Gigi.
+
+13. Keperawatan (Nursing)
+    - Deskripsi: Pelayanan kesehatan holistik bagi pasien dan keluarga.
+    - Prospek Kerja: Perawat Rumah Sakit, Home Care Specialist, Perawat di Kapal Pesiar atau Luar Negeri.
+
+14. Kesehatan Masyarakat (Public Health)
+    - Deskripsi: Promosi kesehatan dan pencegahan penyakit di masyarakat.
+    - Prospek Kerja: Administrator Rumah Sakit, Epidemiolog, Peneliti Kebijakan Kesehatan, Kesehatan & Keselamatan Kerja (K3).
+
+15. Gizi (Nutrition Science)
+    - Deskripsi: Hubungan antara pola makan, gizi, dan kesehatan manusia.
+    - Prospek Kerja: Ahli Gizi (Nutritionist/Dietician), Konsultan Gizi, Industri Makanan.
+
+---
+
+## KATEGORI: EKONOMI, BISNIS & SOSIAL
+
+16. Akuntansi (Accounting)
+    - Deskripsi: Pencatatan, pengklasifikasian, dan pelaporan transaksi keuangan.
+    - Prospek Kerja: Akuntan Publik, Auditor, Analis Keuangan, Konsultan Pajak, Internal Auditor.
+
+17. Manajemen (Management)
+    - Deskripsi: Pengelolaan sumber daya organisasi untuk mencapai tujuan tertentu.
+    - Prospek Kerja: Manajer Pemasaran, Manajer HRD, Operations Manager, Wirausaha, Business Development.
+
+18. Ekonomi Pembangunan (Development Economics)
+    - Deskripsi: Mempelajari masalah ekonomi di tingkat makro dan kebijakan pembangunan.
+    - Prospek Kerja: Analis Ekonomi, Perencana Pembangunan (Bappenas), Staff Bank Indonesia/OJK.
+
+19. Ilmu Hukum (Law)
+    - Deskripsi: Aturan, perundang-undangan, dan sistem peradilan.
+    - Prospek Kerja: Lawyer (Advokat), Notaris, Jaksa, Hakim, Legal Officer di Perusahaan.
+
+20. Psikologi (Psychology)
+    - Deskripsi: Perilaku manusia, mentalitas, dan proses kognitif.
+    - Prospek Kerja: HR Consultant, People Development/Recruiter, Psikolog Klinis, Riset Pasar.
+
+21. Ilmu Komunikasi (Communication Science)
+    - Deskripsi: Teknik penyampaian pesan melalui berbagai media.
+    - Prospek Kerja: Public Relations (PR), Social Media Specialist, Copywriter, Jurnalis, Content Creator.
+
+22. Hubungan Internasional (International Relations)
+    - Deskripsi: Dinamika politik, ekonomi, dan hukum antarnegara.
+    - Prospek Kerja: Diplomat, Analis Politik Internasional, Staf Organisasi Internasional (PBB), Eksekutif Ekspor-Impor.
+
+---
+
+## KATEGORI: MATEMATIKA, SAINS & ALAM
+
+23. Statistika & Sains Data (Statistics & Data Science)
+    - Deskripsi: Pengumpulan, analisis, dan interpretasi data untuk pengambilan keputusan.
+    - Prospek Kerja: Data Analyst, Data Scientist, Actuary, Riset Pasar, Bio-statistician.
+
+24. Matematika (Mathematics)
+    - Deskripsi: Konsep abstrak hitungan, logika, dan struktur.
+    - Prospek Kerja: Analis Keuangan, Guru/Dosen, Software Developer, Researcher.
+
+25. Biologi / Bioteknologi (Biology)
+    - Deskripsi: Ilmu tentang makhluk hidup dan aplikasinya dalam teknologi.
+    - Prospek Kerja: Peneliti di Lab, Quality Control Industri Pangan, Konsultan Lingkungan.
+
+26. Kimia (Chemistry)
+    - Deskripsi: Sifat dan reaksi zat serta material.
+    - Prospek Kerja: Analis Kimia, Staff R&D Industri, QC Specialist, Formulator.
+
+27. Fisika / Astronomi (Physics)
+    - Deskripsi: Hukum alam semesta dan materi.
+    - Prospek Kerja: Peneliti (BRIN), Geofisika pertambangan, Data Analyst.
+
+---
+
+## KATEGORI: PERTANIAN, PETERNAKAN & KELAUTAN
+
+28. Agribisnis (Agribusiness)
+    - Deskripsi: Sisi bisnis dari sektor pertanian.
+    - Prospek Kerja: Pengusaha Pertanian, Konsultan Agrikultur, Manager Perkebunan.
+
+29. Ilmu Kelautan & Perikanan (Marine Science)
+    - Deskripsi: Eksplorasi laut dan budidaya hasil perikanan.
+    - Prospek Kerja: Aquaculturist, Konsultan Kelautan, Pengelola Konservasi.
+
+30. Peternakan (Animal Science)
+    - Deskripsi: Budidaya dan pengolahan hasil ternak.
+    - Prospek Kerja: Manager Farm Peternakan, Ahli Nutrisi Ternak, Industri Pengolahan Daging.
+
+---
+
+## KATEGORI: HUMANIORA & SENI
+
+31. Desain Komunikasi Visual (DKV)
+    - Deskripsi: Penyampaian informasi melalui elemen visual grafis.
+    - Prospek Kerja: Graphic Designer, UI/UX Designer, Art Director, Illustrator.
+
+32. Sastra (Inggris, Indonesia, Jepang, dll)
+    - Deskripsi: Mempelajari bahasa, karya sastra, dan budaya.
+    - Prospek Kerja: Penerjemah, Editor, Content Writer, Diplomat Budaya.
+
+33. Pendidikan (PGSD, Pendidikan Bahasa, dll)
+    - Deskripsi: Teori belajar-mengajar dan pedagogi.
+    - Prospek Kerja: Guru, Peneliti Pendidikan, Instructional Designer.
+
+34. Arkeologi & Sejarah
+    - Deskripsi: Jejak masa lalu manusia dan perkembangan sejarah.
+    - Prospek Kerja: Arkeolog, Pemandu Wisata Sejarah, Kurator Museum.
+
+(Data ini dapat terus diperbarui sesuai dengan perkembangan kurikulum dan pasar kerja di Indonesia.)
