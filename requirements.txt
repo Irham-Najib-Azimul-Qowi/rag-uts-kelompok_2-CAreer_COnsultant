@@ -8,4 +8,5 @@ python-dotenv
 pypdf
 pandas
 google-generativeai
-openpyxllangchain-chroma
+openpyxl
+langchain-chroma
