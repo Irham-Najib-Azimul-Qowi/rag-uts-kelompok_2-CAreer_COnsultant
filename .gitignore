@@ -8,9 +8,7 @@ venv/
 env/
 .venv/
 
-# Vector store (bisa diregenerasi)
-vectorstore/
-chroma_db/
+# vectorstore/ (removed chroma_db from ignore)
 faiss_index/
 
 # Python cache
