@@ -33,6 +33,17 @@ def load_all_documents(data_dir="data"):
         except Exception as e:
             print(f"Error loading {txt}: {e}")
 
+    # Load CSVs
+    from langchain_community.document_loaders.csv_loader import CSVLoader
+    csv_files = glob.glob(os.path.join(data_dir, "*.csv"))
+    for csv in csv_files:
+        try:
+            loader = CSVLoader(csv)
+            documents.extend(loader.load())
+            print(f"Loaded CSV: {csv}")
+        except Exception as e:
+            print(f"Error loading {csv}: {e}")
+
     return documents
 
 def format_prompt():
