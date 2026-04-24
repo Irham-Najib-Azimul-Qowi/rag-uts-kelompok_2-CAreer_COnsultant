@@ -88,18 +88,18 @@ python src/evaluate.py
 
 The system's performance can be evaluated using the following 10 questions. Results are stored in `evaluation/hasil_evaluasi.xlsx` (placeholder).
 
-| No | Question | Ideal Answer |
+| No | Question | Result/Answer Summary |
 | :-- | :--- | :--- |
-| 1 | Karir apa yang cocok untuk mahasiswa IT? | Mahasiswa IT cocok untuk Software Engineer, Data Scientist, atau Network Architect. |
-| 2 | Bagaimana menentukan minat karir? | Menggunakan tes minat, introspeksi passion, dan observasi aktivitas yang disukai. |
-| 3 | Apa langkah dalam konseling karir? | Identifikasi masalah, asesmen diri, eksplorasi karir, dan pengambilan keputusan. |
-| 4 | Apa itu RIASEC dalam konseling? | Model Holland yang membagi minat ke tipe Realistic, Investigative, Artistic, Social, Enterprising, dan Conventional. |
-| 5 | Mengapa penting memiliki tujuan karir? | Sebagai panduan arah hidup dan motivasi dalam pengembangan diri secara profesional. |
-| 6 | Apa peran konselor dalam pendidikan? | Membantu siswa memahami potensi diri dan memberikan opsi jalur pendidikan yang relevan. |
-| 7 | Bagaimana cara mengatasi keraguan karir? | Konsultasi dengan ahli, melakukan magang, dan riset mendalam tentang industri terkait. |
-| 8 | Apa bedanya minat dan bakat? | Minat adalah kecenderungan menyukai sesuatu, bakat adalah kemampuan alami yang menonjol. |
-| 9 | Apa tantangan utama karir di era digital? | Perubahan teknologi yang cepat dan kebutuhan untuk terus belajar (lifelong learning). |
-| 10 | Bagaimana cara menyusun CV yang baik? | Fokus pada pencapaian, gunakan kata kerja aksi, dan sesuaikan dengan deskripsi pekerjaan. |
+| 1 | Apa saja prospek kerja lulusan Teknik Informatika? | Menjelaskan peran seperti Software Engineer, Data Scientist, Cyber Security |
+| 2 | Berapa perkiraan gaji Software Engineer di Indonesia? | Menyebutkan rentang Rp 15jt – 25jt |
+| 3 | Bagaimana cara menentukan minat karir mahasiswa? | Introspeksi, tes minat, observasi |
+| 4 | Keahlian apa yang paling dicari untuk Data Scientist? | Python, Statistika, ML |
+| 5 | Apa langkah menyusun rencana aksi karir? | Identifikasi tujuan, riset, implementasi |
+| 6 | Sebutkan prospek kerja lulusan Psikologi | HR, Recruiter, Psikolog Klinis |
+| 7 | Apa tantangan utama mencari kerja di era digital? | Teknologi cepat berubah |
+| 8 | Bagaimana strategi menghadapi wawancara kerja? | Riset perusahaan, latihan |
+| 9 | Jurusan apa dalam kategori Ekonomi & Sosial? | Gagal menjawab (Error 429) |
+| 10 | Apa itu RIASEC dalam konseling karir? | Menjelaskan model Holland |
 
 ---
 
