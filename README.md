@@ -117,3 +117,4 @@ The system's performance can be evaluated using the following 10 questions. Resu
 - The system will only answer based on documents in the `data/` folder.
 - Does not answer out-of-scope general knowledge queries.
 - Requires internet connection for Gemini API.
+
